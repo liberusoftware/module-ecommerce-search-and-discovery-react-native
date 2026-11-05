@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-search-and-discovery-react-native",
+  "capabilityKey": "planned:ecommerce:search-and-discovery",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-ecommerce-search-and-discovery-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/ecommerce/nextjs/search-and-discovery.md",
+  "presentationPlan": "projects/ecommerce/react-native/search-and-discovery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
